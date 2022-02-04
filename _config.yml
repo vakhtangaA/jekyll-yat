@@ -206,6 +206,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-admin
 
-baseurl: /jekyll-yat
 url: http://vakhtangaa.github.io
