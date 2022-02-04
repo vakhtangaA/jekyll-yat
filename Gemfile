@@ -1,8 +1,8 @@
 # frozen_string_literal: true
-gem 'jekyll-admin'
-
 
 source "https://rubygems.org"
 gemspec
+gem 'jekyll-admin'
+gem 'github-pages'
 
 
