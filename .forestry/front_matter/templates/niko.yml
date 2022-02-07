@@ -1,0 +1,21 @@
+---
+label: niko
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+pages:
+- _posts/iyo-da-ara.md
